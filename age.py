@@ -1,0 +1,6 @@
+name =input("What is your name?")
+print("What is your name?", name)
+age =input("How old are you?")
+print("How old are you?", age)
+her_Age =100 - int(age)
+print(name, "will turn 100 in", her_Age, "years")
